@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GitHouse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="f9aa51a8-f263-490e-9b95-cd1dc91e165f" />
+  <component name="ProjectId" id="27K04BK6EAq1q4rr3dgHnjE2BAt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="" />
+      <created>1649053276758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649053276758</updated>
+      <workItem from="1649053277866" duration="795000" />
+      <workItem from="1649054090698" duration="1307000" />
+    </task>
+    <task id="LOCAL-00001" summary="python课程作业">
+      <created>1649053496334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649053496334</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python课程作业">
+      <created>1649053942514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649053942514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python课程作业">
+      <created>1649054027918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054027918</updated>
+    </task>
+    <task id="LOCAL-00004" summary="python课程作业">
+      <created>1649054127162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054127162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python课程作业">
+      <created>1649054311397</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054311397</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python课程作业">
+      <created>1649054729337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054729337</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python课程作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649054728531">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054728531" />
+    <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649053421455">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1649053421455" />
+    <state x="105" y="15" key="SettingsEditor" timestamp="1649053382619">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state x="105" y="15" key="SettingsEditor/0.0.1440.912@0.0.1440.912" timestamp="1649053382619" />
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649054765523">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649054765523" />
+  </component>
+</project>
