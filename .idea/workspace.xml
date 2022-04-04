@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
       <env key="FLASK_APP" value="app" />
@@ -21,9 +28,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="6462c3d8-2691-4377-8ee2-ab40d5763826" />
+  <component name="JupyterTrust" id="01d06443-7796-4c7a-b9f6-b8584239a5f7" />
   <component name="ProjectId" id="27K04BK6EAq1q4rr3dgHnjE2BAt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649053276758</updated>
       <workItem from="1649053277866" duration="795000" />
+      <workItem from="1649054090698" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="python课程作业">
       <created>1649053496334</created>
@@ -66,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649054027918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python课程作业">
+      <created>1649054127162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054127162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python课程作业">
+      <created>1649054311397</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054311397</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,10 +101,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649054026767">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649054310573">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054026767" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054310573" />
     <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649053421455">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
@@ -89,9 +113,9 @@
       <screen x="0" y="0" width="1440" height="912" />
     </state>
     <state x="105" y="15" key="SettingsEditor/0.0.1440.912@0.0.1440.912" timestamp="1649053382619" />
-    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649054076863">
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649054667940">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649054076863" />
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649054667940" />
   </component>
 </project>
