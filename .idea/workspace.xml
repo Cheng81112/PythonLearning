@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GitHouse.iml" afterDir="false" />
-    </list>
+    <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649053276758</updated>
-      <workItem from="1649053277866" duration="649000" />
+      <workItem from="1649053277866" duration="795000" />
     </task>
     <task id="LOCAL-00001" summary="python课程作业">
       <created>1649053496334</created>
@@ -55,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649053496334</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python课程作业">
+      <created>1649053942514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649053942514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python课程作业">
+      <created>1649054027918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054027918</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,10 +77,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649053494196">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649054026767">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649053494196" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054026767" />
     <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649053421455">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
@@ -78,9 +89,9 @@
       <screen x="0" y="0" width="1440" height="912" />
     </state>
     <state x="105" y="15" key="SettingsEditor/0.0.1440.912@0.0.1440.912" timestamp="1649053382619" />
-    <state x="213" y="102" key="Vcs.Push.Dialog.v2" timestamp="1649053905820">
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649054076863">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="213" y="102" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649053905820" />
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649054076863" />
   </component>
 </project>
