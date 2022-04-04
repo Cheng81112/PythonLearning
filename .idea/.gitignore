@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../:\GitHouse\.idea/dataSources/
+=======
+/../../../../../../:\Users\WangCheng\PycharmProjects\PythonLearning\.idea/dataSources/
+>>>>>>> 5c518756d30c9db7069e1e1b933549e1a062babb
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="" />
+    <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REDME.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649053276758</updated>
       <workItem from="1649053277866" duration="795000" />
-      <workItem from="1649054090698" duration="623000" />
+      <workItem from="1649054090698" duration="1307000" />
     </task>
     <task id="LOCAL-00001" summary="python课程作业">
       <created>1649053496334</created>
@@ -90,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649054311397</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="python课程作业">
+      <created>1649054729337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649054729337</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,10 +116,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649054310573">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649054728531">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054310573" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054728531" />
     <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649053421455">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
@@ -113,9 +128,9 @@
       <screen x="0" y="0" width="1440" height="912" />
     </state>
     <state x="105" y="15" key="SettingsEditor/0.0.1440.912@0.0.1440.912" timestamp="1649053382619" />
-    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649054667940">
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649054765523">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649054667940" />
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649054765523" />
   </component>
 </project>
