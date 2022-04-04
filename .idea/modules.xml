@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonLearning.iml" filepath="$PROJECT_DIR$/.idea/PythonLearning.iml" />
-=======
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/GitHouse.iml" filepath="$PROJECT_DIR$/.idea/GitHouse.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/PSO_o.iml" filepath="$PROJECT_DIR$/.idea/PSO_o.iml" />
->>>>>>> 5c518756d30c9db7069e1e1b933549e1a062babb
->>>>>>> 8804c1f6c9f5810d2062a09035fbb5ebb58f96d8
     </modules>
   </component>
 </project>

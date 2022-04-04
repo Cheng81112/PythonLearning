@@ -2,12 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GitHouse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_上机作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_上机作业_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_上机作业_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_上机作业_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/wordcount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/三国演义.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_上机作业_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_上机作业_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_上机作业_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/排序中的lambda函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_上机作业_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_上机作业_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_上机作业_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/面向对象的程序设计.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/面向过程的程序设计.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +149,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -111,6 +216,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="python课程作业" />
     <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
   </component>
@@ -119,10 +225,10 @@
       <screen x="0" y="0" width="1440" height="912" />
     </state>
     <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054728531" />
-    <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649053421455">
+    <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649057431932">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1649053421455" />
+    <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1649057431932" />
     <state x="105" y="15" key="SettingsEditor" timestamp="1649053382619">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
