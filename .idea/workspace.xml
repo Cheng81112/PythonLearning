@@ -2,116 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_例_3_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_1/1120211201_课堂例题_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_例_3_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_14_class_2/1120211201_课堂作业_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_上机作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_1/1120211201_例_4_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_上机作业_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_上机作业_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_上机作业_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/1120211201_例_10_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/score.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/students.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/wordcount.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_21_class_2/三国演义.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_上机作业_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_上机作业_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_上机作业_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/1120211201_例_11_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_1/排序中的lambda函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_上机作业_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_上机作业_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_上机作业_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/1120211201_例_12_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/面向对象的程序设计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_2/面向过程的程序设计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_3_28_class_3/1120211201_例_13_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_StringIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_序列化_Json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_操作文件和目录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_文件读写.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/dump.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_pooled_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_子进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_进程间通信.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/1120211201.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_BytesIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/1120211201_例_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_序列化.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,9 +41,10 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="f9aa51a8-f263-490e-9b95-cd1dc91e165f" />
+  <component name="JupyterTrust" id="bafd7f8f-255d-476a-b8a4-fe361c21bcc8" />
   <component name="ProjectId" id="27K04BK6EAq1q4rr3dgHnjE2BAt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,8 +58,127 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pywork/demo1" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.IO编程_序列化_Json">
+    <configuration name="IO编程_序列化_Json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_4_4_class_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_序列化_Json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程和多线程_多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_4_4_class_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\GitHouse\PythonLearning\python_learning_4_4_class_1\进程和多线程_多线程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程和多线程_子进程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_4_4_class_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_子进程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程和多线程_进程间通信" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_4_4_class_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_进程间通信.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程和多线程_pooled_processing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_4_4_class_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_pooled_processing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.进程和多线程_pooled_processing" />
+        <item itemvalue="Python.进程和多线程_多线程" />
+        <item itemvalue="Python.IO编程_序列化_Json" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -166,6 +190,8 @@
       <updated>1649053276758</updated>
       <workItem from="1649053277866" duration="795000" />
       <workItem from="1649054090698" duration="1307000" />
+      <workItem from="1649057435031" duration="12375000" />
+      <workItem from="1649386786700" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="python课程作业">
       <created>1649053496334</created>
@@ -209,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649054729337</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="python课程作业">
+      <created>1649057450001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649057450001</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,21 +254,47 @@
     <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649054728531">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649057449342">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649054728531" />
-    <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649057431932">
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649057449342" />
+    <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649386936353">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1649057431932" />
+    <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1649386936353" />
+    <state width="1387" height="280" key="GridCell.Tab.0.bottom" timestamp="1649076880482">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state width="1387" height="280" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
+    <state width="1387" height="280" key="GridCell.Tab.0.center" timestamp="1649076880482">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state width="1387" height="280" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
+    <state width="1387" height="280" key="GridCell.Tab.0.left" timestamp="1649076880482">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state width="1387" height="280" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
+    <state width="1387" height="280" key="GridCell.Tab.0.right" timestamp="1649076880482">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state width="1387" height="280" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
     <state x="105" y="15" key="SettingsEditor" timestamp="1649053382619">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
     <state x="105" y="15" key="SettingsEditor/0.0.1440.912@0.0.1440.912" timestamp="1649053382619" />
-    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649054765523">
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2" timestamp="1649057464679">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649054765523" />
+    <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649057464679" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonLearning$1120211201.coverage" NAME="1120211201 Coverage Results" MODIFIED="1649060789455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$IO__Json.coverage" NAME="IO编程_序列化_Json Coverage Results" MODIFIED="1649074132116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$_.coverage" NAME="进程和多线程_进程间通信 Coverage Results" MODIFIED="1649076853815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$IO_.coverage" NAME="IO编程_序列化 Coverage Results" MODIFIED="1649073196311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$IO___1_.coverage" NAME="IO编程_文件读写 (1) Coverage Results" MODIFIED="1649070767872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$IO_StringIO.coverage" NAME="IO编程_StringIO Coverage Results" MODIFIED="1649071294821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$IO_BytesIO.coverage" NAME="IO编程_BytesIO Coverage Results" MODIFIED="1649071655252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$_pooled_processing.coverage" NAME="进程和多线程_pooled_processing Coverage Results" MODIFIED="1649075320188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
   </component>
 </project>
