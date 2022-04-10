@@ -1,5 +1,6 @@
 '''
-
+进程间相互通信
+以Queue为例，在父进程中创建两个子进程，一个往Queue中写数据，一个从Queue里读数据
 '''
 
 from multiprocessing import Process, Queue
@@ -22,9 +23,10 @@ def read(q):
 
 if __name__=='__main__':
     # 父进程创建Queue，并传给各个子进程：
+
     q = Queue()
-    pw = Process(target=write, args=(q,))
-    pr = Process(target=read, args=(q,))
+    pw = Process(args=(q,), target=write)
+    pr = Process(args=(q,), target=read)
     # 启动子进程pw，写入:
     pw.start()
     # 启动子进程pr，读取:

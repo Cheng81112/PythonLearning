@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_StringIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_序列化_Json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_操作文件和目录.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_文件读写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/dump.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_pooled_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_多线程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_子进程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_进程间通信.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_Lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_threadlock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_分布式进程_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_分布式进程_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_多线程.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/1120211201.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_BytesIO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/1120211201_例_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_序列化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_pooled_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_pooled_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_多进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_子进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_子进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_进程间通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_进程间通信.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="bafd7f8f-255d-476a-b8a4-fe361c21bcc8" />
+  <component name="JupyterTrust" id="a9aac93e-3738-4d37-8039-992aba7c6a23" />
   <component name="ProjectId" id="27K04BK6EAq1q4rr3dgHnjE2BAt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,11 +54,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pywork/demo1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.IO编程_序列化_Json">
-    <configuration name="IO编程_序列化_Json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.进程和线程_分布式进程_master">
+    <configuration name="进程和线程_多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +71,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/IO编程_序列化_Json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_多线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="进程和多线程_多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="进程和线程_进程间通信" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +93,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\GitHouse\PythonLearning\python_learning_4_4_class_1\进程和多线程_多线程.py" />
+      <option name="SCRIPT_NAME" value="F:\GitHouse\PythonLearning\python_learning_4_4_class_1\进程和线程_进程间通信.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程和线程_Lock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_4_4_class_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_Lock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="进程和多线程_pooled_processing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="进程和线程_分布式进程_master" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +181,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和多线程_pooled_processing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_分布式进程_master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程和线程_threadlock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_4_4_class_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_4_4_class_1/进程和线程_threadlock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,9 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.进程和多线程_pooled_processing" />
-        <item itemvalue="Python.进程和多线程_多线程" />
-        <item itemvalue="Python.IO编程_序列化_Json" />
+        <item itemvalue="Python.进程和线程_分布式进程_master" />
+        <item itemvalue="Python.进程和线程_threadlock" />
+        <item itemvalue="Python.进程和线程_Lock" />
+        <item itemvalue="Python.进程和线程_多线程" />
+        <item itemvalue="Python.进程和线程_进程间通信" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +234,7 @@
       <workItem from="1649054090698" duration="1307000" />
       <workItem from="1649057435031" duration="12375000" />
       <workItem from="1649386786700" duration="151000" />
+      <workItem from="1649489056846" duration="9900000" />
     </task>
     <task id="LOCAL-00001" summary="python课程作业">
       <created>1649053496334</created>
@@ -242,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649057450001</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="python课程作业">
+      <created>1649489106156</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649489106156</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,30 +304,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649057449342">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649489105029">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649057449342" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649489105029" />
     <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649386936353">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
     <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1649386936353" />
-    <state width="1387" height="280" key="GridCell.Tab.0.bottom" timestamp="1649076880482">
+    <state width="1387" height="192" key="GridCell.Tab.0.bottom" timestamp="1649560704882">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="280" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
-    <state width="1387" height="280" key="GridCell.Tab.0.center" timestamp="1649076880482">
+    <state width="1387" height="192" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1649560704882" />
+    <state width="1387" height="192" key="GridCell.Tab.0.center" timestamp="1649560704882">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="280" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
-    <state width="1387" height="280" key="GridCell.Tab.0.left" timestamp="1649076880482">
+    <state width="1387" height="192" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1649560704882" />
+    <state width="1387" height="192" key="GridCell.Tab.0.left" timestamp="1649560704882">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="280" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
-    <state width="1387" height="280" key="GridCell.Tab.0.right" timestamp="1649076880482">
+    <state width="1387" height="192" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1649560704882" />
+    <state width="1387" height="192" key="GridCell.Tab.0.right" timestamp="1649560704882">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="280" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1649076880482" />
+    <state width="1387" height="192" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1649560704882" />
     <state x="105" y="15" key="SettingsEditor" timestamp="1649053382619">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
@@ -286,15 +336,23 @@
       <screen x="0" y="0" width="1440" height="912" />
     </state>
     <state x="133" y="76" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1649057464679" />
+    <state x="299" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1649493061744">
+      <screen x="0" y="0" width="1440" height="912" />
+    </state>
+    <state x="299" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1440.912@0.0.1440.912" timestamp="1649493061744" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonLearning$1120211201.coverage" NAME="1120211201 Coverage Results" MODIFIED="1649060789455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
     <SUITE FILE_PATH="coverage/PythonLearning$IO__Json.coverage" NAME="IO编程_序列化_Json Coverage Results" MODIFIED="1649074132116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
-    <SUITE FILE_PATH="coverage/PythonLearning$_.coverage" NAME="进程和多线程_进程间通信 Coverage Results" MODIFIED="1649076853815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$___1_.coverage" NAME="进程和多线程_多线程 (1) Coverage Results" MODIFIED="1649489245514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$_.coverage" NAME="进程和线程_多线程 Coverage Results" MODIFIED="1649491633539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
     <SUITE FILE_PATH="coverage/PythonLearning$IO_.coverage" NAME="IO编程_序列化 Coverage Results" MODIFIED="1649073196311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$_Lock.coverage" NAME="进程和线程_Lock Coverage Results" MODIFIED="1649492843245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$__master.coverage" NAME="进程和线程_分布式进程_master Coverage Results" MODIFIED="1649560704863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
     <SUITE FILE_PATH="coverage/PythonLearning$IO___1_.coverage" NAME="IO编程_文件读写 (1) Coverage Results" MODIFIED="1649070767872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
     <SUITE FILE_PATH="coverage/PythonLearning$IO_StringIO.coverage" NAME="IO编程_StringIO Coverage Results" MODIFIED="1649071294821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
     <SUITE FILE_PATH="coverage/PythonLearning$IO_BytesIO.coverage" NAME="IO编程_BytesIO Coverage Results" MODIFIED="1649071655252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
     <SUITE FILE_PATH="coverage/PythonLearning$_pooled_processing.coverage" NAME="进程和多线程_pooled_processing Coverage Results" MODIFIED="1649075320188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$_threadlock.coverage" NAME="进程和线程_threadlock Coverage Results" MODIFIED="1649507841640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_4_4_class_1" />
   </component>
 </project>
