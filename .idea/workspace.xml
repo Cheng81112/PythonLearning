@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c9bccd-88ca-4fbe-9fb9-b464e9d481d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/图形界面/rect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/图形界面/stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/图形界面/tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/HTMLParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/Hashlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/XML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/base64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/collectins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/contextlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/datatime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/hmac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/itertools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/struct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用内建模块/urllib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/Pillow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/blur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/chardec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/psutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块/use_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/电子邮件/POP3收取邮件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/电子邮件/SMTP发送邮件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/网络编程/TCP_Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/网络编程/UDP_Program_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/网络编程/UDP_Program_sever.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/网络编程/sina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/访问数据库/MySQL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/访问数据库/SQLAlchemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_11_class_1/访问数据库/SQLite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_learning_4_4_class_1/正则表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_4_18_class_1/web开发/1120211201_web.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +32,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="53a64c08-6c40-454c-8197-6db11a5dda1b" />
+  <component name="JupyterTrust" id="e7950541-2f01-4899-84ab-64726fdcbe19" />
   <component name="ProjectId" id="27K04BK6EAq1q4rr3dgHnjE2BAt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -78,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_learning_4_11_class_1/常用第三方模块" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pywork/DataMining" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -289,7 +257,9 @@
       <workItem from="1649057435031" duration="12375000" />
       <workItem from="1649386786700" duration="151000" />
       <workItem from="1649489056846" duration="9918000" />
-      <workItem from="1649656688497" duration="18183000" />
+      <workItem from="1649656688497" duration="18232000" />
+      <workItem from="1650261051115" duration="2275000" />
+      <workItem from="1650502595584" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="python课程作业">
       <created>1649053496334</created>
@@ -354,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649571280925</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="python课程作业">
+      <created>1649684644974</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649684644974</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,30 +343,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="python课程作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649571279970">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1649684643401">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649571279970" />
-    <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1649386936353">
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1649684643401" />
+    <state x="448" y="137" key="FileChooserDialogImpl" timestamp="1650502634521">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1649386936353" />
-    <state width="1387" height="191" key="GridCell.Tab.0.bottom" timestamp="1649684024716">
+    <state x="448" y="137" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1650502634521" />
+    <state width="1387" height="191" key="GridCell.Tab.0.bottom" timestamp="1649684669702">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="191" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1649684024716" />
-    <state width="1387" height="191" key="GridCell.Tab.0.center" timestamp="1649684024716">
+    <state width="1387" height="191" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1649684669702" />
+    <state width="1387" height="191" key="GridCell.Tab.0.center" timestamp="1649684669702">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="191" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1649684024716" />
-    <state width="1387" height="191" key="GridCell.Tab.0.left" timestamp="1649684024715">
+    <state width="1387" height="191" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1649684669702" />
+    <state width="1387" height="191" key="GridCell.Tab.0.left" timestamp="1649684669702">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="191" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1649684024715" />
-    <state width="1387" height="191" key="GridCell.Tab.0.right" timestamp="1649684024716">
+    <state width="1387" height="191" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1649684669702" />
+    <state width="1387" height="191" key="GridCell.Tab.0.right" timestamp="1649684669702">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1387" height="191" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1649684024716" />
+    <state width="1387" height="191" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1649684669702" />
     <state x="105" y="15" key="SettingsEditor" timestamp="1649053382619">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
